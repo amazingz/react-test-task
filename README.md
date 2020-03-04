@@ -17,3 +17,6 @@ https://habrastorage.org/files/c27/ac0/637/c27ac06373984352a1ebe2f6424cd9e9.png
 https://habr.com/ru/company/dataart/blog/262817/
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-test-task)
+
+
+https://scotch.io/tutorials/build-a-react-app-with-user-authentication#toc-login-page
