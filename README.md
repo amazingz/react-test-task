@@ -20,3 +20,5 @@ https://habr.com/ru/company/dataart/blog/262817/
 
 
 https://scotch.io/tutorials/build-a-react-app-with-user-authentication#toc-login-page
+
+https://jasonwatmore.com/post/2018/09/11/react-basic-http-authentication-tutorial-example
